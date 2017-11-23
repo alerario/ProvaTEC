@@ -1,0 +1,15 @@
+br\data\entity\Categoria_.class
+br\data\entity\Produto.class
+br\jsf\JsfProdutoSelect.class
+jsf\JsfFornecedor.class
+br\data\crud\CrudProduto.class
+br\data\crud\EMNames.class
+br\data\entity\Produto_.class
+br\data\crud\CrudCategoria.class
+br\data\entity\Fornecedor_.class
+br\data\crud\AbstractCrud.class
+br\jsf\JsfProduto.class
+br\data\entity\Fornecedor.class
+br\data\entity\Categoria.class
+br\data\crud\CrudFornecedor.class
+jsf\JsfCategoria.class
